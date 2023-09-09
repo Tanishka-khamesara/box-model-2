@@ -1,0 +1,30 @@
+
+
+.outer{
+    margin-left: 5%;
+    margin-right: auto;
+    max-width: 40%;
+}
+.outer, .inner1, .inner2, .inner3, .inner31, .inner32, span{
+    border: 2px solid rgb(224, 37, 37);
+    padding: 10px;
+   }
+
+.inner1{
+    margin: 25px 0 20px;
+}
+
+h1{
+    font-weight: bolder;
+    margin-block: 0px;
+   font-size: xx-large;   
+}
+
+p{
+ font-size: large;
+}
+
+ul{
+  list-style-position: outside;
+  margin-left: -40px;
+}
